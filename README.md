@@ -9,23 +9,23 @@ It is a place to store files needed to use Grammar.
 INSTALL
 -------
 
-###Grammer ( 그래머 확장 프로그램 )
+### Grammer ( 그래머 확장 프로그램 )
 Window & Mac:  
 
-###Instagram Extracter ( 인스타그램 추출 프로그램 )
+### Instagram Extracter ( 인스타그램 추출 프로그램 )
 Window:
 Mac:
 
-###Chrome ( 크롬 브라우저 )
+### Chrome ( 크롬 브라우저 )
 Window(x64):
 Window(x32):
 Mac:
 
-###TeamViewer ( 팀뷰어 원격 프로그램 )
+### TeamViewer ( 팀뷰어 원격 프로그램 )
 Window:
 Mac:
 
-###oCam ( 오캠 녹화프로그램 )
+### oCam ( 오캠 녹화프로그램 )
 Window:
 
 <br/>
